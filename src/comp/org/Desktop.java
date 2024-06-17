@@ -8,6 +8,10 @@ public class Desktop extends Computer {
 		Desktop d=new Desktop();
 		d.desktopSize();
 		d.computerMode();
+		d.computerModel();
+		
+	
+		
 	}
 
 }
