@@ -9,7 +9,7 @@ public class Desktop extends Computer {
 		d.desktopSize();
 		d.computerMode();
 		d.computerModel();
-		tharani
+		
 	
 		
 	}
